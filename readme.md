@@ -1,10 +1,10 @@
-# CarShop
+# Portfolio-Nextjs-Backend
 
 - [@typescript eslint-prettier setup](https://dev.to/shafayat/-express-typescript-eslint-prettiersetup-5fhg)
 
 - [@typescript eslint-prettier setup](https://blog.logrocket.com/linting-typescript-eslint-prettier/#setup-eslint)
 
-🚀 E-Commerce Platform
+🚀 Portfolio Platform
 
 - A role-based authentication e-commerce platform with user and admin - - dashboards, product management, and secure checkout.
 
