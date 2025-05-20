@@ -8,7 +8,8 @@ const app: Application = express();
 
 app.use(express.json());
 app.use(cookieParser());
-app.use(cors({ origin: ['http://localhost:5173', '*'], credentials: true }));
+// app.use(cors({ origin: ['http://localhost:5173', '*'], credentials: true }));
+app.use(cors({ origin: ['http://localhost:5173', 'https://rakesh-biswas-portfolio-nextjs.vercel.app', 'https://rakesh-biswas-portfolio-nextjs-admin.vercel.app'], credentials: true }));
 
 app.use('/api',router)
 
